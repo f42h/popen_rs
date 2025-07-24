@@ -56,4 +56,4 @@ fn main() {
 ```
 
 ## License
-This project is published under the [MIT](https://github.com/f42h/popen_rs/blob/main/LICENSE) License. 
+This project is published under the [MIT](https://github.com/f42h/popen_rs/blob/master/LICENSE) License. 
