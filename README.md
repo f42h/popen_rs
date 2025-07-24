@@ -10,6 +10,11 @@ or stderr stream handle.
 
 ### Usage
 
+- Add the crate to your project
+```bash
+cargo add popen_rs
+```
+
 - Import the popen_rs crate to your source file
 
 ```rust
