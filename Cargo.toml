@@ -2,5 +2,9 @@
 name = "popen_rs"
 version = "0.1.0"
 edition = "2024"
+description = "Simple Process Spawning Library"
+license = "MIT"
+repository = "https://github.com/f42h/popen_rs"
+keywords = ["command", "process"]
 
 [dependencies]
